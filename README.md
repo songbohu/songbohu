@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there :wave:
+
+I am a first year PhD student at [Language Technology Lab](https://ltl.mmll.cam.ac.uk/).
 
 <!--
 **songbohu/songbohu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
