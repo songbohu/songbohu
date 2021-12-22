@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there :rowboat:🎉
 
 I am a first year PhD student at [Language Technology Lab](https://ltl.mmll.cam.ac.uk/).
 
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-:rowboat:🎉
+
 -->
