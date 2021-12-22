@@ -2,7 +2,7 @@
 
 I am a first year PhD student at [Language Technology Lab](https://ltl.mmll.cam.ac.uk/).
 
-I am interesting in dialogue systems :robot:💬.
+I am interested in dialogue systems :robot:💬.
 
 <!--
 **songbohu/songbohu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
