@@ -1,6 +1,6 @@
 ### Hi there 🎉
 
-I am a second year PhD student at [Language Technology Lab](https://ltl.mmll.cam.ac.uk/).
+I am a thrid year PhD student at [Language Technology Lab](https://ltl.mmll.cam.ac.uk/).
 
 I am interested in dialogue systems :robot:💬.
 
