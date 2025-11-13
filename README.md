@@ -1,8 +1,9 @@
 ### Hi there 🎉
 
-I am a fourth year PhD student at [Language Technology Lab](https://ltl.mmll.cam.ac.uk/).
+I am a research associate at the [Language Technology Lab](https://ltl.mmll.cam.ac.uk/).
 
-I am interested in dialogue systems :robot:💬.
+I am interested in building conversational AI for real-world applications, with a particular focus on development and deployment in resource-constrained settings.
+
 
 <!--
 **songbohu/songbohu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
